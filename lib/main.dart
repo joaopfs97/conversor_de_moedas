@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:async/async.dart';
+import 'package:convert/convert.dart';
 
 const request = "https://api.hgbrasil.com/finance";
 
